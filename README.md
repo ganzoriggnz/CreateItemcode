@@ -1,0 +1,2 @@
+# CreateItemcode
+Gobi master data
